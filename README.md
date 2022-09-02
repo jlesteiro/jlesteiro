@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlesteiro
-- 👀 I’m interested in High Energy Physics, Machine Learning, and Data Science
-- 🌱 I’m currently learning Python with freecodecamp
+- 👀 I’m interested in Quantum Mechanics, Thermodynamics and Statistics, High Energy Physics, Machine Learning, and Data Science
+- 🌱 
 - 💞️ I’m looking to collaborate on anything challenging
 - 📫 How to reach me @lnchrdwd in Telegram
 
